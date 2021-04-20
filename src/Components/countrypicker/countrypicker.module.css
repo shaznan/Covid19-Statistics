@@ -1,0 +1,12 @@
+.test {
+  display: flex;
+  justify-content: end;
+  width: 20%;
+  /* margin: auto; */
+}
+
+.formControl {
+  width: 18%;
+  display: block !important;
+  margin: 2% auto !important;
+}
